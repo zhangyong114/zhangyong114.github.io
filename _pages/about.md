@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+
 ## **zhang yong** 
 ## **Email:zhangyong2023@bit.edu.cn** 
 ## Education
