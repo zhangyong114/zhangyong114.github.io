@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhang Yong / Person Homepage"
+title                    : "Person Homepage"
 title_separator          : "-"
 name                     : &name "Zhang Yong"
 description              : &description "A beginner in artificial intelligence"
